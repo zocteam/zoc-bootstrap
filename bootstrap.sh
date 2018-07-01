@@ -1,6 +1,6 @@
 #!/bin/bash
 s3cmd="/usr/local/bin/s3cmd --config=/root/.s3cfg"
-s3name="dash-bootstrap"
+s3name="zoc-bootstrap"
 s3bucket="s3://$s3name/"
 s3https="https://$s3name.ams3.digitaloceanspaces.com/"
 file="bootstrap.dat"
@@ -58,13 +58,13 @@ do_the_job() {
 echo -e "$header\n" > README.md
 
 # mainnet
-#cat ~/.dash/blocks/blk0000* > $file
-blocks=`dash-cli getblockcount`
+#cat ~/.zeroonecore/blocks/blk0000* > $file
+blocks=`zeroone-cli getblockcount`
 do_the_job mainnet
 
 # testnet
-#cat ~/.dash/testnet3/blocks/blk0000* > $file
-blocks=`dash_testnet-cli -datadir=/root/.dashcore_test getblockcount`
+#cat ~/.zeroonecore/testnet3/blocks/blk0000* > $file
+blocks=`zoc_testnet-cli -datadir=$HOME/.zeroonecore_test getblockcount`
 do_the_job testnet
 
 # finalize with the footer
