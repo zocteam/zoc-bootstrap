@@ -45,15 +45,6 @@ def wordreverse(in_buf):
 	return ''.join(out_words)
 
 def calc_hdr_hash(blk_hdr):
-	#hash1 = hashlib.sha256()
-	#hash1.update(blk_hdr)
-	#hash1_o = hash1.digest()
-
-	#hash2 = hashlib.sha256()
-	#hash2.update(hash1_o)
-	#hash2_o = hash2.digest()
-
-	#return hash2_o
         pow_hash = zeroone_hash.getPoWHash(blk_hdr)
         return pow_hash
 
@@ -267,9 +258,9 @@ if __name__ == '__main__':
 	f.close()
 
 	if 'netmagic' not in settings:
-		settings['netmagic'] = 'cee2caff'
+		settings['netmagic'] = '1ab2c3d4'
 	if 'genesis' not in settings:
-		settings['genesis'] = '00000bafbc94add76cb75e2ec92894837288a481e5c005f6563d91623bf8bc2c'
+		settings['genesis'] = '00000c8e2be06ce7e6ea78cd9f6ea60e22821d70f8c8fbb714b6baa7b4f2150c'
 	if 'input' not in settings:
 		settings['input'] = 'input'
 	if 'hashlist' not in settings:
