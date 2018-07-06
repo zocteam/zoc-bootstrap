@@ -1,0 +1,7 @@
+linearize-*.cfg
+*cli*
+.gitconfigure
+*bootstrap*
+*hashlist.txt
+md5.txt
+sha256.txt
