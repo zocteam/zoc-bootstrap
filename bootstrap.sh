@@ -38,14 +38,17 @@ do_the_job() {
   md5sum $file_zip >> $file_md5
   md5sum $file_gz >> $file_md5
   # store
-  echo $s3cmd put $file_zip $file_gz $file_sha256 $file_md5 $s3currentPath --acl-public
+  $s3cmd cp $file_zip $s3currentPath$file_zip --acl public-read
+  $s3cmd cp $file_gz $s3currentPath$file_gz --acl public-read
+  $s3cmd cp $file_sha256 $s3currentPath$file_sha256 --acl public-read
+  $s3cmd cp $file_md5 $s3currentPath$file_md5 --acl public-read
   # update docs
   url_zip=$s3currentUrl$file_zip
   url_gz=$s3currentUrl$file_gz
   url_sha256=$s3currentUrl$file_sha256
   url_md5=$s3currentUrl$file_md5
   size_zip=`ls -lh $file_zip | awk -F" " '{ print $5 }'`
-  size_gz=`ls -lh $file_zip | awk -F" " '{ print $5 }'`
+  size_gz=`ls -lh $file_gz | awk -F" " '{ print $5 }'`
   newLinks="Block $blocks: $date [zip]($url_zip) ($size_zip) [gz]($url_gz) ($size_gz) [SHA256]($url_sha256) [MD5]($url_md5)\n\n$prevLinks"
   echo -e "$newLinks" > $linksFile
   mv $file $file_zip $file_gz $file_sha256 $file_md5 hashlist.txt bootstrap$network$blocks/
@@ -53,13 +56,13 @@ do_the_job() {
   # clean up old files
   keepDays=7
   scanDays=30
-  oldFolders=$($s3cmd ls $s3networkPath | grep -oP 's3:.*')
+  oldFolders=$($s3cmd ls $s3networkPath | grep -oP '[0-9]*-[0-9]*-[0-9]*')
   while [ $keepDays -lt $scanDays ]; do
     loopDate=$(date -u -d "now -"$keepDays" days" +%Y-%m-%d)
     found=$(echo -e $oldFolders | grep -oP $loopDate)
     if [ "$found" != "" ]; then
       echo "found old folder $found, deleting $s3networkPath$loopDate/ ..."
-      echo $s3cmd del -r $s3networkPath$loopDate/
+      $s3cmd rm $s3networkPath$loopDate --recursive
     fi
     let keepDays=keepDays+1
   done
@@ -83,6 +86,6 @@ do_the_job testnet $blocks
 echo -e "$footer" >> README.md
 
 # push to github
-echo git add *.md
-echo git commit -m "$date - autoupdate"
-echo git push
+git add *.md
+git commit -m "$date - autoupdate"
+git push
