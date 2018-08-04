@@ -1,3 +1,5 @@
+Block 98361: Sat Aug  4 01:30:01 UTC 2018 [zip](https://files.01coin.io/mainnet/2018-08-04/bootstrap.dat.zip) (40M) [gz](https://files.01coin.io/mainnet/2018-08-04/bootstrap.dat.tar.gz) (40M) [SHA256](https://files.01coin.io/mainnet/2018-08-04/sha256.txt) [MD5](https://files.01coin.io/mainnet/2018-08-04/md5.txt)
+
 Block 97801: Fri Aug  3 01:30:05 UTC 2018 [zip](https://files.01coin.io/mainnet/2018-08-03/bootstrap.dat.zip) (40M) [gz](https://files.01coin.io/mainnet/2018-08-03/bootstrap.dat.tar.gz) (39M) [SHA256](https://files.01coin.io/mainnet/2018-08-03/sha256.txt) [MD5](https://files.01coin.io/mainnet/2018-08-03/md5.txt)
 
 Block 97263: Thu Aug  2 01:30:01 UTC 2018 [zip](https://files.01coin.io/mainnet/2018-08-02/bootstrap.dat.zip) (39M) [gz](https://files.01coin.io/mainnet/2018-08-02/bootstrap.dat.tar.gz) (39M) [SHA256](https://files.01coin.io/mainnet/2018-08-02/sha256.txt) [MD5](https://files.01coin.io/mainnet/2018-08-02/md5.txt)
@@ -7,5 +9,3 @@ Block 96689: Wed Aug  1 01:30:01 UTC 2018 [zip](https://files.01coin.io/mainnet/
 Block 96182: Tue Jul 31 01:30:01 UTC 2018 [zip](https://files.01coin.io/mainnet/2018-07-31/bootstrap.dat.zip) (39M) [gz](https://files.01coin.io/mainnet/2018-07-31/bootstrap.dat.tar.gz) (39M) [SHA256](https://files.01coin.io/mainnet/2018-07-31/sha256.txt) [MD5](https://files.01coin.io/mainnet/2018-07-31/md5.txt)
 
 Block 95632: Mon Jul 30 01:30:01 UTC 2018 [zip](https://files.01coin.io/mainnet/2018-07-30/bootstrap.dat.zip) (39M) [gz](https://files.01coin.io/mainnet/2018-07-30/bootstrap.dat.tar.gz) (39M) [SHA256](https://files.01coin.io/mainnet/2018-07-30/sha256.txt) [MD5](https://files.01coin.io/mainnet/2018-07-30/md5.txt)
-
-Block 95081: Sun Jul 29 01:30:03 UTC 2018 [zip](https://files.01coin.io/mainnet/2018-07-29/bootstrap.dat.zip) (38M) [gz](https://files.01coin.io/mainnet/2018-07-29/bootstrap.dat.tar.gz) (38M) [SHA256](https://files.01coin.io/mainnet/2018-07-29/sha256.txt) [MD5](https://files.01coin.io/mainnet/2018-07-29/md5.txt)
