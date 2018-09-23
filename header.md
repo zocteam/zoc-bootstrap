@@ -13,4 +13,9 @@
 
 _NOTE: bootstrap.dat for testnet must be placed in **testnet3** subfolder of corresponding ZeroOneCore folder_
 
+### Latest files
+Download link to the latest bootstap.dat for mainnet: [zip](https://files.01coin.io/mainnet/bootstrap.dat.zip) [gz](https://files.01coin.io/mainnet/bootstrap.dat.tar.gz) [SHA256](https://files.01coin.io/mainnet/sha256.txt) [MD5](https://files.01coin.io/mainnet/md5.txt)
+
+Download link to the latest bootstap.dat for testnet: [zip](https://files.01coin.io/testnet/bootstrap.dat.zip) [gz](https://files.01coin.io/testnet/bootstrap.dat.tar.gz) [SHA256](https://files.01coin.io/testnet/sha256.txt) [MD5](https://files.01coin.io/testnet/md5.txt)
+
 ### Recent files
