@@ -37,20 +37,17 @@ do_the_job() {
   md5sum $file > $file_md5
   md5sum $file_zip >> $file_md5
   md5sum $file_gz >> $file_md5
-  # remove old latest
-  $s3cmd rm $s3networkPath$file_zip
-  $s3cmd rm $s3networkPath$file_gz
-  $s3cmd rm $s3networkPath$file_sha256
-  $s3cmd rm $s3networkPath$file_md5
+  # invalidate old latest
+  aws cloudfront create-invalidation --distribution-id yourid --paths /$network/$file_zip /$network/$file_gz /$network/$file_sha256 /$network/$file_md5
   # store
   $s3cmd cp $file_zip $s3currentPath$file_zip --acl public-read
   $s3cmd cp $file_gz $s3currentPath$file_gz --acl public-read
   $s3cmd cp $file_sha256 $s3currentPath$file_sha256 --acl public-read
   $s3cmd cp $file_md5 $s3currentPath$file_md5 --acl public-read
-  $s3cmd cp $file_zip $s3networkPath$file_zip --acl public-read
-  $s3cmd cp $file_gz $s3networkPath$file_gz --acl public-read
-  $s3cmd cp $file_sha256 $s3networkPath$file_sha256 --acl public-read
-  $s3cmd cp $file_md5 $s3networkPath$file_md5 --acl public-read
+  $s3cmd cp $s3currentPath$file_zip $s3networkPath$file_zip --acl public-read
+  $s3cmd cp $s3currentPath$file_gz $s3networkPath$file_gz --acl public-read
+  $s3cmd cp $s3currentPath$file_sha256 $s3networkPath$file_sha256 --acl public-read
+  $s3cmd cp $s3currentPath$file_md5 $s3networkPath$file_md5 --acl public-read
   # update docs
   url_zip=$s3currentUrl$file_zip
   url_gz=$s3currentUrl$file_gz
