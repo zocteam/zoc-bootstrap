@@ -1,4 +1,4 @@
-Block 318622: Wed Oct  2 01:30:01 UTC 2019 [zip](https://files.01coin.io/mainnet/2019-10-02/bootstrap.dat.zip) (62M) [gz](https://files.01coin.io/mainnet/2019-10-02/bootstrap.dat.tar.gz) (67M) [SHA256](https://files.01coin.io/mainnet/2019-10-02/sha256.txt) [MD5](https://files.01coin.io/mainnet/2019-10-02/md5.txt)
+Block 318624: Wed Oct  2 01:32:13 UTC 2019 [zip](https://files.01coin.io/mainnet/2019-10-02/bootstrap.dat.zip) () [gz](https://files.01coin.io/mainnet/2019-10-02/bootstrap.dat.tar.gz) (45) [SHA256](https://files.01coin.io/mainnet/2019-10-02/sha256.txt) [MD5](https://files.01coin.io/mainnet/2019-10-02/md5.txt)
 
 Block 318475: Tue Oct  1 19:10:20 UTC 2019 [zip](https://files.01coin.io/mainnet/2019-10-01/bootstrap.dat.zip) (128M) [gz](https://files.01coin.io/mainnet/2019-10-01/bootstrap.dat.tar.gz) (127M) [SHA256](https://files.01coin.io/mainnet/2019-10-01/sha256.txt) [MD5](https://files.01coin.io/mainnet/2019-10-01/md5.txt)
 
