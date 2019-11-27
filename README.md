@@ -22,6 +22,8 @@ Download link to the latest bootstap.dat for testnet: [zip](https://files.01coin
 
 #### For mainnet:
 
+Block 349306: Wed Nov 27 02:30:01 UTC 2019 [zip](https://files.01coin.io/mainnet/2019-11-27/bootstrap.dat.zip) (139M) [gz](https://files.01coin.io/mainnet/2019-11-27/bootstrap.dat.tar.gz) (139M) [SHA256](https://files.01coin.io/mainnet/2019-11-27/sha256.txt) [MD5](https://files.01coin.io/mainnet/2019-11-27/md5.txt)
+
 Block 348754: Tue Nov 26 02:30:01 UTC 2019 [zip](https://files.01coin.io/mainnet/2019-11-26/bootstrap.dat.zip) (139M) [gz](https://files.01coin.io/mainnet/2019-11-26/bootstrap.dat.tar.gz) (139M) [SHA256](https://files.01coin.io/mainnet/2019-11-26/sha256.txt) [MD5](https://files.01coin.io/mainnet/2019-11-26/md5.txt)
 
 Block 348207: Mon Nov 25 02:30:02 UTC 2019 [zip](https://files.01coin.io/mainnet/2019-11-25/bootstrap.dat.zip) (139M) [gz](https://files.01coin.io/mainnet/2019-11-25/bootstrap.dat.tar.gz) (138M) [SHA256](https://files.01coin.io/mainnet/2019-11-25/sha256.txt) [MD5](https://files.01coin.io/mainnet/2019-11-25/md5.txt)
@@ -31,8 +33,6 @@ Block 347657: Sun Nov 24 02:30:01 UTC 2019 [zip](https://files.01coin.io/mainnet
 Block 347115: Sat Nov 23 02:30:01 UTC 2019 [zip](https://files.01coin.io/mainnet/2019-11-23/bootstrap.dat.zip) (139M) [gz](https://files.01coin.io/mainnet/2019-11-23/bootstrap.dat.tar.gz) (138M) [SHA256](https://files.01coin.io/mainnet/2019-11-23/sha256.txt) [MD5](https://files.01coin.io/mainnet/2019-11-23/md5.txt)
 
 Block 346564: Fri Nov 22 02:30:01 UTC 2019 [zip](https://files.01coin.io/mainnet/2019-11-22/bootstrap.dat.zip) (138M) [gz](https://files.01coin.io/mainnet/2019-11-22/bootstrap.dat.tar.gz) (138M) [SHA256](https://files.01coin.io/mainnet/2019-11-22/sha256.txt) [MD5](https://files.01coin.io/mainnet/2019-11-22/md5.txt)
-
-Block 346019: Thu Nov 21 02:30:01 UTC 2019 [zip](https://files.01coin.io/mainnet/2019-11-21/bootstrap.dat.zip) (138M) [gz](https://files.01coin.io/mainnet/2019-11-21/bootstrap.dat.tar.gz) (138M) [SHA256](https://files.01coin.io/mainnet/2019-11-21/sha256.txt) [MD5](https://files.01coin.io/mainnet/2019-11-21/md5.txt)
 
 
 ### Donations are welcome:
