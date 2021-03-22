@@ -1,3 +1,5 @@
+Block 575534: Mon Mar 22 02:30:01 UTC 2021 [zip](https://files.01coin.io/mainnet/2021-03-22/bootstrap.dat.zip) (222M) [gz](https://files.01coin.io/mainnet/2021-03-22/bootstrap.dat.tar.gz) (222M) [SHA256](https://files.01coin.io/mainnet/2021-03-22/sha256.txt) [MD5](https://files.01coin.io/mainnet/2021-03-22/md5.txt)
+
 Block 575001: Sun Mar 21 02:30:01 UTC 2021 [zip](https://files.01coin.io/mainnet/2021-03-21/bootstrap.dat.zip) (222M) [gz](https://files.01coin.io/mainnet/2021-03-21/bootstrap.dat.tar.gz) (222M) [SHA256](https://files.01coin.io/mainnet/2021-03-21/sha256.txt) [MD5](https://files.01coin.io/mainnet/2021-03-21/md5.txt)
 
 Block 574619: Sat Mar 20 02:30:01 UTC 2021 [zip](https://files.01coin.io/mainnet/2021-03-20/bootstrap.dat.zip) (222M) [gz](https://files.01coin.io/mainnet/2021-03-20/bootstrap.dat.tar.gz) (222M) [SHA256](https://files.01coin.io/mainnet/2021-03-20/sha256.txt) [MD5](https://files.01coin.io/mainnet/2021-03-20/md5.txt)
@@ -7,5 +9,3 @@ Block 574117: Fri Mar 19 02:30:01 UTC 2021 [zip](https://files.01coin.io/mainnet
 Block 573671: Thu Mar 18 02:30:01 UTC 2021 [zip](https://files.01coin.io/mainnet/2021-03-18/bootstrap.dat.zip) (222M) [gz](https://files.01coin.io/mainnet/2021-03-18/bootstrap.dat.tar.gz) (221M) [SHA256](https://files.01coin.io/mainnet/2021-03-18/sha256.txt) [MD5](https://files.01coin.io/mainnet/2021-03-18/md5.txt)
 
 Block 573230: Wed Mar 17 02:30:02 UTC 2021 [zip](https://files.01coin.io/mainnet/2021-03-17/bootstrap.dat.zip) (222M) [gz](https://files.01coin.io/mainnet/2021-03-17/bootstrap.dat.tar.gz) (221M) [SHA256](https://files.01coin.io/mainnet/2021-03-17/sha256.txt) [MD5](https://files.01coin.io/mainnet/2021-03-17/md5.txt)
-
-Block 572690: Tue Mar 16 02:30:01 UTC 2021 [zip](https://files.01coin.io/mainnet/2021-03-16/bootstrap.dat.zip) (222M) [gz](https://files.01coin.io/mainnet/2021-03-16/bootstrap.dat.tar.gz) (221M) [SHA256](https://files.01coin.io/mainnet/2021-03-16/sha256.txt) [MD5](https://files.01coin.io/mainnet/2021-03-16/md5.txt)
