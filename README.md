@@ -22,6 +22,8 @@ Download link to the latest bootstap.dat for testnet: [zip](https://files.01coin
 
 #### For mainnet:
 
+Block 729733: Fri Feb 25 02:30:01 UTC 2022 [zip](https://files.01coin.io/mainnet/2022-02-25/bootstrap.dat.zip) (263M) [gz](https://files.01coin.io/mainnet/2022-02-25/bootstrap.dat.tar.gz) (262M) [SHA256](https://files.01coin.io/mainnet/2022-02-25/sha256.txt) [MD5](https://files.01coin.io/mainnet/2022-02-25/md5.txt)
+
 Block 729185: Thu Feb 24 02:30:02 UTC 2022 [zip](https://files.01coin.io/mainnet/2022-02-24/bootstrap.dat.zip) (263M) [gz](https://files.01coin.io/mainnet/2022-02-24/bootstrap.dat.tar.gz) (262M) [SHA256](https://files.01coin.io/mainnet/2022-02-24/sha256.txt) [MD5](https://files.01coin.io/mainnet/2022-02-24/md5.txt)
 
 Block 728769: Wed Feb 23 02:30:01 UTC 2022 [zip](https://files.01coin.io/mainnet/2022-02-23/bootstrap.dat.zip) (263M) [gz](https://files.01coin.io/mainnet/2022-02-23/bootstrap.dat.tar.gz) (262M) [SHA256](https://files.01coin.io/mainnet/2022-02-23/sha256.txt) [MD5](https://files.01coin.io/mainnet/2022-02-23/md5.txt)
@@ -31,8 +33,6 @@ Block 728228: Tue Feb 22 02:30:01 UTC 2022 [zip](https://files.01coin.io/mainnet
 Block 727691: Mon Feb 21 02:30:01 UTC 2022 [zip](https://files.01coin.io/mainnet/2022-02-21/bootstrap.dat.zip) (262M) [gz](https://files.01coin.io/mainnet/2022-02-21/bootstrap.dat.tar.gz) (262M) [SHA256](https://files.01coin.io/mainnet/2022-02-21/sha256.txt) [MD5](https://files.01coin.io/mainnet/2022-02-21/md5.txt)
 
 Block 727219: Sun Feb 20 02:30:01 UTC 2022 [zip](https://files.01coin.io/mainnet/2022-02-20/bootstrap.dat.zip) (262M) [gz](https://files.01coin.io/mainnet/2022-02-20/bootstrap.dat.tar.gz) (262M) [SHA256](https://files.01coin.io/mainnet/2022-02-20/sha256.txt) [MD5](https://files.01coin.io/mainnet/2022-02-20/md5.txt)
-
-Block 726747: Sat Feb 19 02:30:01 UTC 2022 [zip](https://files.01coin.io/mainnet/2022-02-19/bootstrap.dat.zip) (262M) [gz](https://files.01coin.io/mainnet/2022-02-19/bootstrap.dat.tar.gz) (261M) [SHA256](https://files.01coin.io/mainnet/2022-02-19/sha256.txt) [MD5](https://files.01coin.io/mainnet/2022-02-19/md5.txt)
 
 
 ### Donations are welcome:
