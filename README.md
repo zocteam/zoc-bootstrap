@@ -22,6 +22,8 @@ Download link to the latest bootstap.dat for testnet: [zip](https://files.01coin
 
 #### For mainnet:
 
+Block : Mon Jan  9 02:30:01 UTC 2023 [zip](https://files.01coin.io/mainnet/2023-01-09/bootstrap.dat.zip) () [gz](https://files.01coin.io/mainnet/2023-01-09/bootstrap.dat.tar.gz) (45) [SHA256](https://files.01coin.io/mainnet/2023-01-09/sha256.txt) [MD5](https://files.01coin.io/mainnet/2023-01-09/md5.txt)
+
 Block : Sun Jan  8 02:30:01 UTC 2023 [zip](https://files.01coin.io/mainnet/2023-01-08/bootstrap.dat.zip) () [gz](https://files.01coin.io/mainnet/2023-01-08/bootstrap.dat.tar.gz) (45) [SHA256](https://files.01coin.io/mainnet/2023-01-08/sha256.txt) [MD5](https://files.01coin.io/mainnet/2023-01-08/md5.txt)
 
 Block : Sat Jan  7 02:30:01 UTC 2023 [zip](https://files.01coin.io/mainnet/2023-01-07/bootstrap.dat.zip) () [gz](https://files.01coin.io/mainnet/2023-01-07/bootstrap.dat.tar.gz) (45) [SHA256](https://files.01coin.io/mainnet/2023-01-07/sha256.txt) [MD5](https://files.01coin.io/mainnet/2023-01-07/md5.txt)
@@ -31,8 +33,6 @@ Block : Fri Jan  6 02:30:01 UTC 2023 [zip](https://files.01coin.io/mainnet/2023-
 Block : Thu Jan  5 02:30:01 UTC 2023 [zip](https://files.01coin.io/mainnet/2023-01-05/bootstrap.dat.zip) () [gz](https://files.01coin.io/mainnet/2023-01-05/bootstrap.dat.tar.gz) (45) [SHA256](https://files.01coin.io/mainnet/2023-01-05/sha256.txt) [MD5](https://files.01coin.io/mainnet/2023-01-05/md5.txt)
 
 Block : Wed Jan  4 02:30:01 UTC 2023 [zip](https://files.01coin.io/mainnet/2023-01-04/bootstrap.dat.zip) () [gz](https://files.01coin.io/mainnet/2023-01-04/bootstrap.dat.tar.gz) (45) [SHA256](https://files.01coin.io/mainnet/2023-01-04/sha256.txt) [MD5](https://files.01coin.io/mainnet/2023-01-04/md5.txt)
-
-Block : Tue Jan  3 02:30:01 UTC 2023 [zip](https://files.01coin.io/mainnet/2023-01-03/bootstrap.dat.zip) () [gz](https://files.01coin.io/mainnet/2023-01-03/bootstrap.dat.tar.gz) (45) [SHA256](https://files.01coin.io/mainnet/2023-01-03/sha256.txt) [MD5](https://files.01coin.io/mainnet/2023-01-03/md5.txt)
 
 
 ### Donations are welcome:
