@@ -1,3 +1,5 @@
+Block 54568: Mon Jun 22 03:12:38 UTC 2026 [zip](https://files.01coin.io/testnet/2026-06-22/bootstrap.dat.zip) (8.5M) [gz](https://files.01coin.io/testnet/2026-06-22/bootstrap.dat.tar.gz) (8.5M) [SHA256](https://files.01coin.io/testnet/2026-06-22/sha256.txt) [MD5](https://files.01coin.io/testnet/2026-06-22/md5.txt)
+
 Block 54525: Sun Jun 21 03:11:54 UTC 2026 [zip](https://files.01coin.io/testnet/2026-06-21/bootstrap.dat.zip) (8.5M) [gz](https://files.01coin.io/testnet/2026-06-21/bootstrap.dat.tar.gz) (8.5M) [SHA256](https://files.01coin.io/testnet/2026-06-21/sha256.txt) [MD5](https://files.01coin.io/testnet/2026-06-21/md5.txt)
 
 Block 54471: Sat Jun 20 03:12:40 UTC 2026 [zip](https://files.01coin.io/testnet/2026-06-20/bootstrap.dat.zip) (8.5M) [gz](https://files.01coin.io/testnet/2026-06-20/bootstrap.dat.tar.gz) (8.5M) [SHA256](https://files.01coin.io/testnet/2026-06-20/sha256.txt) [MD5](https://files.01coin.io/testnet/2026-06-20/md5.txt)
@@ -7,5 +9,3 @@ Block 54430: Fri Jun 19 03:12:05 UTC 2026 [zip](https://files.01coin.io/testnet/
 Block 54370: Thu Jun 18 03:13:04 UTC 2026 [zip](https://files.01coin.io/testnet/2026-06-18/bootstrap.dat.zip) (8.5M) [gz](https://files.01coin.io/testnet/2026-06-18/bootstrap.dat.tar.gz) (8.5M) [SHA256](https://files.01coin.io/testnet/2026-06-18/sha256.txt) [MD5](https://files.01coin.io/testnet/2026-06-18/md5.txt)
 
 Block 54325: Wed Jun 17 03:11:58 UTC 2026 [zip](https://files.01coin.io/testnet/2026-06-17/bootstrap.dat.zip) (8.5M) [gz](https://files.01coin.io/testnet/2026-06-17/bootstrap.dat.tar.gz) (8.5M) [SHA256](https://files.01coin.io/testnet/2026-06-17/sha256.txt) [MD5](https://files.01coin.io/testnet/2026-06-17/md5.txt)
-
-Block 54268: Tue Jun 16 03:11:58 UTC 2026 [zip](https://files.01coin.io/testnet/2026-06-16/bootstrap.dat.zip) (8.5M) [gz](https://files.01coin.io/testnet/2026-06-16/bootstrap.dat.tar.gz) (8.5M) [SHA256](https://files.01coin.io/testnet/2026-06-16/sha256.txt) [MD5](https://files.01coin.io/testnet/2026-06-16/md5.txt)
