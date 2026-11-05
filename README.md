@@ -22,6 +22,8 @@ Download link to the latest bootstap.dat for testnet: [zip](https://files.01coin
 
 #### For mainnet:
 
+Block : Thu Nov  5 02:30:02 UTC 2026 [zip](https://files.01coin.io/mainnet/2026-11-05/bootstrap.dat.zip) () [gz](https://files.01coin.io/mainnet/2026-11-05/bootstrap.dat.tar.gz) (45) [SHA256](https://files.01coin.io/mainnet/2026-11-05/sha256.txt) [MD5](https://files.01coin.io/mainnet/2026-11-05/md5.txt)
+
 Block : Wed Nov  4 02:30:01 UTC 2026 [zip](https://files.01coin.io/mainnet/2026-11-04/bootstrap.dat.zip) () [gz](https://files.01coin.io/mainnet/2026-11-04/bootstrap.dat.tar.gz) (45) [SHA256](https://files.01coin.io/mainnet/2026-11-04/sha256.txt) [MD5](https://files.01coin.io/mainnet/2026-11-04/md5.txt)
 
 Block : Tue Nov  3 02:30:01 UTC 2026 [zip](https://files.01coin.io/mainnet/2026-11-03/bootstrap.dat.zip) () [gz](https://files.01coin.io/mainnet/2026-11-03/bootstrap.dat.tar.gz) (45) [SHA256](https://files.01coin.io/mainnet/2026-11-03/sha256.txt) [MD5](https://files.01coin.io/mainnet/2026-11-03/md5.txt)
@@ -32,10 +34,10 @@ Block : Sun Nov  1 02:30:01 UTC 2026 [zip](https://files.01coin.io/mainnet/2026-
 
 Block : Sat Oct 31 02:30:01 UTC 2026 [zip](https://files.01coin.io/mainnet/2026-10-31/bootstrap.dat.zip) () [gz](https://files.01coin.io/mainnet/2026-10-31/bootstrap.dat.tar.gz) (45) [SHA256](https://files.01coin.io/mainnet/2026-10-31/sha256.txt) [MD5](https://files.01coin.io/mainnet/2026-10-31/md5.txt)
 
-Block : Fri Oct 30 02:30:01 UTC 2026 [zip](https://files.01coin.io/mainnet/2026-10-30/bootstrap.dat.zip) () [gz](https://files.01coin.io/mainnet/2026-10-30/bootstrap.dat.tar.gz) (45) [SHA256](https://files.01coin.io/mainnet/2026-10-30/sha256.txt) [MD5](https://files.01coin.io/mainnet/2026-10-30/md5.txt)
-
 
 #### For testnet:
+
+Block : Thu Nov  5 02:30:17 UTC 2026 [zip](https://files.01coin.io/testnet/2026-11-05/bootstrap.dat.zip) () [gz](https://files.01coin.io/testnet/2026-11-05/bootstrap.dat.tar.gz) (45) [SHA256](https://files.01coin.io/testnet/2026-11-05/sha256.txt) [MD5](https://files.01coin.io/testnet/2026-11-05/md5.txt)
 
 Block : Wed Nov  4 02:30:17 UTC 2026 [zip](https://files.01coin.io/testnet/2026-11-04/bootstrap.dat.zip) () [gz](https://files.01coin.io/testnet/2026-11-04/bootstrap.dat.tar.gz) (45) [SHA256](https://files.01coin.io/testnet/2026-11-04/sha256.txt) [MD5](https://files.01coin.io/testnet/2026-11-04/md5.txt)
 
@@ -46,8 +48,6 @@ Block : Mon Nov  2 02:30:17 UTC 2026 [zip](https://files.01coin.io/testnet/2026-
 Block : Sun Nov  1 02:30:17 UTC 2026 [zip](https://files.01coin.io/testnet/2026-11-01/bootstrap.dat.zip) () [gz](https://files.01coin.io/testnet/2026-11-01/bootstrap.dat.tar.gz) (45) [SHA256](https://files.01coin.io/testnet/2026-11-01/sha256.txt) [MD5](https://files.01coin.io/testnet/2026-11-01/md5.txt)
 
 Block : Sat Oct 31 02:30:17 UTC 2026 [zip](https://files.01coin.io/testnet/2026-10-31/bootstrap.dat.zip) () [gz](https://files.01coin.io/testnet/2026-10-31/bootstrap.dat.tar.gz) (45) [SHA256](https://files.01coin.io/testnet/2026-10-31/sha256.txt) [MD5](https://files.01coin.io/testnet/2026-10-31/md5.txt)
-
-Block : Fri Oct 30 02:30:17 UTC 2026 [zip](https://files.01coin.io/testnet/2026-10-30/bootstrap.dat.zip) () [gz](https://files.01coin.io/testnet/2026-10-30/bootstrap.dat.tar.gz) (45) [SHA256](https://files.01coin.io/testnet/2026-10-30/sha256.txt) [MD5](https://files.01coin.io/testnet/2026-10-30/md5.txt)
 
 
 ### Donations are welcome:
